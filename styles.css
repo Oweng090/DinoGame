@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.container {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 20%;
+    margin: 0 auto;
+}
